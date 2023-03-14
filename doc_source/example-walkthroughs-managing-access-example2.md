@@ -162,7 +162,7 @@ For instructions, see [Creating IAM Users \(AWS Management Console\)](https://do
 
 Create an inline policy for the user Dave by using the following policy\. You will need to update the policy by providing your bucket name\.
 
-It is assumed you are signed in to the console using AccountBadmin user credentials\.
+It is assumed you are signed in to the console using Account B admin user credentials\.
 
 ```
 {
